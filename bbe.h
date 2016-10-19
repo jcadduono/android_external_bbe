@@ -24,7 +24,6 @@
 
 #include <features.h>
 #include <errno.h>
-#include <error.h>
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdio.h>

@@ -23,6 +23,7 @@
 /* $Id: bbe.c,v 1.43 2006-03-12 10:05:33 timo Exp $ */
 
 #include "bbe.h"
+#include "getline.c"
 #include <getopt.h>
 #include <ctype.h>
 #include <stdlib.h>
